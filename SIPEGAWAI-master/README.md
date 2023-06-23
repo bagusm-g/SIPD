@@ -12,7 +12,7 @@
 
 **Step Step Menjalankan Aplikasi**
 1. Buka Git anda.
-2. Lalu **jalankan** git clone https://github.com/hakimfauzi23/SIPEGAWAI.git di terminal/git bash.
+2. Lalu **jalankan** git
 3. Ganti direktori ke direktori *SIPEGAWAI*
 4. Setelah itu **jalankan** composer install.
 5. Lalu untuk membuat .env dengan cara **jalankan** cp .env.example .env
